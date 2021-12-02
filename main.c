@@ -8,9 +8,19 @@
 #include "EXERCICE6_SERIE1.h"
 #include "EXERCICE_7_SERIE_1.h"
 #include "EXERCICE8_SERIE1.h"
-
-
-void    main()
+#include "SERIE2_EXERCICE1.h"
+#include "SERIE2_EXERCICE2.h"
+#include "SERIE2_EXERCICE3.h"
+#include "SERIE2_EXERCICE6.h"
+#include "SERIE2_EXERCICE4.h"
+#include "SERIE2_EXERCICE5.h"
+#include "SERIE2_EXERCICE5_1.h"
+#include "SERIE2_EXERCICE5_2.h"
+#include"SERIE2_EXERCICE7.h"
+#include"SERIE2_EXERCICE8.h"
+#include"SERIE2_EXERCICE9.h"
+#include"SERIE2_EXERCICE10.h"
+void  main()
 {
     EXERCICE1_SERIE_1 ();
     EXERCICE2_SERIE_1();
@@ -20,6 +30,16 @@ void    main()
     EXERCICE6_SERIE1();
     EXERCICE_7_SERIE_1();
     EXERCICE8_SERIE1();
-
-
+    SERIE2_EXERCICE1();
+    SERIE2_EXERCICE3();
+    SERIE2_EXERCICE2();
+    SERIE2_EXERCICE6();
+    SERIE2_EXERCICE4();
+    SERIE2_EXERCICE5();
+    SERIE2_EXERCICE5_1();
+    SERIE2_EXERCICE5_2();
+    SERIE2_EXERCICE7();
+    SERIE2_EXERCICE8();
+    SERIE2_EXERCICE9();
+    SERIE2_EXERCICE10();
 }
